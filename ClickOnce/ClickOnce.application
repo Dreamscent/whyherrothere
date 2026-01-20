@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://github.com/Dreamscent/whyherrothere/ClickOnce.application" />
+    <deploymentProvider codebase="https://github.com/Dreamscent/whyherrothere/raw/refs/heads/main/ClickOnce/ClickOnce.application" />
   </deployment>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="ClickOnce.exe.manifest" size="2000">
